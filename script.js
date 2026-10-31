@@ -1,6 +1,6 @@
 'use strict';
 const TARGET_URL = 'https://t.me/+zz_LuzUKEFAzOGY1';
-const totalTime = 10;
+const totalTime = 3;
 const deadline = Date.now() + totalTime * 1000;
 const timerCount = document.getElementById('timer-count');
 const textCount = document.getElementById('text-count');
